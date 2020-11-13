@@ -3,7 +3,7 @@
 Bentina is my private project for a wholesale business in my local community : # Bentina Drinks.
 
 Bentina stores is one of the main distributors of RC, BIGI, and BOLD drinks in Enugu. The store have been for many years but then decided to go online this year. 
-I was charged with the responbility of being thier software developer, so I developed this app to help the store have an online presence. 
+I volunteered to help because as a beginner it will help me learn alot, so I developed this app to help the store have an online presence. 
 
 The app uses Firebase email and password authentication for its authentication system then Firebase database as its backend data provider. 
 It also implemented a payment gate way with paystack so that users can pay directly with thier card from the app. 
